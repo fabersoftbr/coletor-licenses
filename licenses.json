@@ -5,8 +5,7 @@
       "eid": "EQ-FSB-CROSS",
       "issuedAt": "2026-04-09T20:46:53.111Z",
       "note": "comaco",
-      "revoked": true,
-      "revokedAt": "2026-04-09T21:21:31.854Z"
+      "revoked": false
     }
   ]
 }
