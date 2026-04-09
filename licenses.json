@@ -1,1 +1,11 @@
-{"licenses":[]}
+{
+  "licenses": [
+    {
+      "lid": "21a1a69e-511f-44df-988a-e86c93e0b776",
+      "eid": "EQ-FSB-CROSS",
+      "issuedAt": "2026-04-09T20:46:53.111Z",
+      "note": "comaco",
+      "revoked": false
+    }
+  ]
+}
