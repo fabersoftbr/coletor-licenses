@@ -27,6 +27,13 @@
       "issuedAt": "2026-04-30T19:21:26.820Z",
       "note": "MONTAGEM DO ASSENTO",
       "revoked": false
+    },
+    {
+      "lid": "0fcccc9b-13b1-49e0-9af2-6e8a5e536335",
+      "eid": "MR024",
+      "issuedAt": "2026-04-30T20:07:09.745Z",
+      "note": "CRAVAMENTO DO ASSENTO",
+      "revoked": false
     }
   ]
 }
