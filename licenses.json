@@ -41,6 +41,13 @@
       "issuedAt": "2026-04-30T20:27:05.740Z",
       "note": "FLANGEADORA DO ASSENTO",
       "revoked": false
+    },
+    {
+      "lid": "07d16441-a5d8-4fbd-a822-826dde11e227",
+      "eid": "WR037",
+      "issuedAt": "2026-04-30T20:32:20.282Z",
+      "note": "SOLDA LASER DO ENCOSTO",
+      "revoked": false
     }
   ]
 }
