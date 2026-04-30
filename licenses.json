@@ -20,6 +20,13 @@
       "issuedAt": "2026-04-30T19:13:47.769Z",
       "note": "TESTE FUNCIONAL DO ASSENTO",
       "revoked": false
+    },
+    {
+      "lid": "4f2dedbf-4548-414f-9f94-966b8ef993f4",
+      "eid": "MM086",
+      "issuedAt": "2026-04-30T19:21:26.820Z",
+      "note": "MONTAGEM DO ASSENTO",
+      "revoked": false
     }
   ]
 }
