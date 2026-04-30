@@ -6,6 +6,13 @@
       "issuedAt": "2026-04-09T20:46:53.111Z",
       "note": "comaco",
       "revoked": false
+    },
+    {
+      "lid": "57846b42-3d4a-4b64-ab83-6cffd67ae289",
+      "eid": "FT0010",
+      "issuedAt": "2026-04-30T18:41:57.266Z",
+      "note": "AMVIAN, TESTE FUNCIONAL DOS ENCOSTOS",
+      "revoked": false
     }
   ]
 }
