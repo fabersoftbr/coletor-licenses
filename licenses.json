@@ -34,6 +34,13 @@
       "issuedAt": "2026-04-30T20:07:09.745Z",
       "note": "CRAVAMENTO DO ASSENTO",
       "revoked": false
+    },
+    {
+      "lid": "1af78377-0a01-4eae-890d-eb834b40bd8a",
+      "eid": "MR025",
+      "issuedAt": "2026-04-30T20:27:05.740Z",
+      "note": "FLANGEADORA DO ASSENTO",
+      "revoked": false
     }
   ]
 }
