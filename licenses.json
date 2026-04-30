@@ -13,6 +13,13 @@
       "issuedAt": "2026-04-30T18:41:57.266Z",
       "note": "AMVIAN, TESTE FUNCIONAL DOS ENCOSTOS",
       "revoked": false
+    },
+    {
+      "lid": "8d49d6d9-90b2-48d9-9ff9-ac57fe311257",
+      "eid": "FT009",
+      "issuedAt": "2026-04-30T19:13:47.769Z",
+      "note": "TESTE FUNCIONAL DO ASSENTO",
+      "revoked": false
     }
   ]
 }
