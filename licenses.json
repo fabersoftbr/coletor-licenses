@@ -48,6 +48,13 @@
       "issuedAt": "2026-04-30T20:32:20.282Z",
       "note": "SOLDA LASER DO ENCOSTO",
       "revoked": false
+    },
+    {
+      "lid": "d53881f6-07d5-4e7c-a0cd-723e88b52405",
+      "eid": "WR047",
+      "issuedAt": "2026-04-30T20:40:22.795Z",
+      "note": "SOLDA MAG DO ASSENTO",
+      "revoked": false
     }
   ]
 }
