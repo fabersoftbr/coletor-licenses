@@ -55,6 +55,13 @@
       "issuedAt": "2026-04-30T20:40:22.795Z",
       "note": "SOLDA MAG DO ASSENTO",
       "revoked": false
+    },
+    {
+      "lid": "dc65c23e-d844-44e2-970e-4788e9a2f7f9",
+      "eid": "RETRABALHO",
+      "issuedAt": "2026-05-19T19:27:41.017Z",
+      "note": "A+",
+      "revoked": false
     }
   ]
 }
