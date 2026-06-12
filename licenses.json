@@ -62,6 +62,12 @@
       "issuedAt": "2026-05-19T19:27:41.017Z",
       "note": "A+",
       "revoked": false
+    },
+    {
+      "lid": "d5f68b41-55bc-49e0-9027-d3add280c7ef",
+      "eid": "GRAVADORA",
+      "issuedAt": "2026-06-12T17:57:43.470Z",
+      "revoked": false
     }
   ]
 }
