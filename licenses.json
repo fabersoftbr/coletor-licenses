@@ -68,6 +68,12 @@
       "eid": "GRAVADORA",
       "issuedAt": "2026-06-12T17:57:43.470Z",
       "revoked": false
+    },
+    {
+      "lid": "a0309a7d-08ed-4e54-a01b-b93fa6b5bbae",
+      "eid": "MR022",
+      "issuedAt": "2026-06-16T19:05:53.820Z",
+      "revoked": false
     }
   ]
 }
