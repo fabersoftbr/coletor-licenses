@@ -87,6 +87,12 @@
       "issuedAt": "2026-10-27T20:26:13.459Z",
       "revoked": true,
       "revokedAt": "2026-10-27T20:37:49.299Z"
+    },
+    {
+      "lid": "7b0d344e-3b1b-4689-af8f-d6ad0f26db18",
+      "eid": "FTB01",
+      "issuedAt": "2026-10-27T20:38:04.123Z",
+      "revoked": false
     }
   ]
 }
