@@ -80,6 +80,12 @@
       "eid": "BTM05",
       "issuedAt": "2026-10-27T20:03:02.815Z",
       "revoked": false
+    },
+    {
+      "lid": "eb94438f-5406-44a0-8a9b-c4c9e0fc1ef3",
+      "eid": "FT001",
+      "issuedAt": "2026-10-27T20:26:13.459Z",
+      "revoked": false
     }
   ]
 }
